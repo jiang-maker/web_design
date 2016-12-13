@@ -1,0 +1,23 @@
+.center-container{
+	width: 1000px;
+	margin: 0 auto;
+}
+input{
+	border: none;
+}
+a{
+	text-decoration: none;
+	color: #666;
+}
+.fl-l{
+	float: left;
+}
+.fl-r{
+	float: right;
+}
+.hidden{
+	display: none;
+}
+.show{
+	display: block;
+}
